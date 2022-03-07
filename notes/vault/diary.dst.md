@@ -2,19 +2,20 @@
 id: foh69bd625qtauluujj7wz9
 title: DST - Scrum Simulation
 desc: ''
-updated: 1645910471020
+updated: 1646237150747
 created: 1645717316587
 ---
 # Main points learned
 Before we began our project we first got an introduction to the game and what this were about. We were supposed to practice scrum. That includes *Release planning*, *Sprint planning*, and *Retrospectives*. This exercise included a product backlog with defined work items which we as a team could either start work on or break down and start to estimate with points.
 
 ## Comunication
-The one thing that i did notice while doing the scrum simulation was that communication while doing the sprint was a key factor to success. A lot of us did not know how to do or solve specific tasks. And some of us did not have the neccessary ressources to perform the specific tasks. When we could communicate and talk about our hurdles, then we know where each other are in the process. 
+The one thing that i did notice while doing the scrum simulation was that communication while doing the sprint was a key factor to success. A lot of us did not know how to do or solve specific tasks. And some of us did not have the neccessary ressources to perform the specific tasks. When we could communicate and talk about our challenges, then every thing want a lot smoother and you didn't really feel that you have failed the team. 
 
 ### Sound up
-A special thing was the our group was good at communicating difficulties and tell that the need help in order to move on. We were not afraid to tell the rest of the group that we do not have the knowledge to move on and that we needed another person in the team to come look at the task in order to get it solved. 
+This leads to a special thing that i noticed. In other projects that we had team members could be a bit shy of telling other about their struggles which ultimately leads to the team falling behind.
+This was not the case while playing DST with this group. This group was particular good at communicating difficulties and tell that they need help in order to move on. We were not afraid to tell the rest of the group that we do not have the knowledge to move on and that we needed another person in the team to come look at the task in order to get it solved. 
 
-This was very beneficial because we could imagine that the person was stuck at this task for a very long time. That would slow down the progress of the project.
+This was very beneficial because the team could move on. We did not get stuck, becuase the person who should deliver some stuff that other team members were dependent upon, did deliver in time.
 
 ## Being aware of the definition of done
 We were quick to come up with a camp which was acceptable of the definition of done. When we prioritized the product backlog with the PO we quickly noticed that in the definition of done that items needs to be stored. And also our team could use that. Therefor it was both a key point for us and the PO that a *chest* was made at the beginning.
